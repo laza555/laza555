@@ -51,7 +51,7 @@
       <br>WooCommerce
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/bigcommerce/121118" width="45" height="45" alt="icon" />
+      <img src="https://cdn.simpleicons.org/bigcommerce" width="45" height="45" alt="icon" />
       <br>BigCommerce
     </td>
   </tr>
