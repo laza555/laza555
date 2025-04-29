@@ -51,7 +51,7 @@
       <br>WooCommerce
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/bigcommerce" width="45" height="45" alt="icon" />
+      <img src="https://cdn.simpleicons.org/bigcommerce/white" width="45" height="45" alt="icon" />
       <br>BigCommerce
     </td>
   </tr>
@@ -69,7 +69,7 @@
       <br>NestJS
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/redwoodjs" width="45" height="45" alt="Express" />
+      <img src="https://cdn.simpleicons.org/redwoodjs/red" width="45" height="45" alt="Express" />
       <br>RedwoodJS
     </td>
     <td align="center" width="90">
