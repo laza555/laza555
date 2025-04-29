@@ -69,7 +69,7 @@
       <br>NestJS
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/redwoodjs/BD1D1D" width="45" height="45" alt="Express" />
+      <img src="https://cdn.simpleicons.org/redwoodjs" width="45" height="45" alt="Express" />
       <br>RedwoodJS
     </td>
     <td align="center" width="90">
