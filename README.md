@@ -51,7 +51,7 @@
       <br>WooCommerce
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/woocommerce/96588A" width="45" height="45" alt="icon" />
+      <img src="https://cdn.simpleicons.org/bigcommerce/121118" width="45" height="45" alt="icon" />
       <br>BigCommerce
     </td>
   </tr>
@@ -91,16 +91,16 @@
       <br>iOS
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="icon"/>
+      <br>React Native
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
       <br>Flutter
     </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" alt="Express" />
       <br>Dart
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="icon"/>
-      <br>React Native
     </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" height="45" alt="Express" />
