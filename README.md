@@ -17,16 +17,16 @@
       <br>React
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="icon"/>
-      <br>React Native
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
       <br>Next.js
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
       <br>Vue
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Vue" />
+      <br>Angular
     </td>
   </tr>
   <tr>
@@ -43,42 +43,68 @@
       <br>Shopify
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=webflow" width="45" height="45" alt="icon"/>
-      <br>Webflow
-    </td>
-    <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" width="45" height="45" alt="icon"/>
       <br>Magento
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="45" height="45" alt="icon" />
-      <br>Drupal
+      <img src="https://cdn.simpleicons.org/woocommerce/96588A" width="45" height="45" alt="icon" />
+      <br>WooCommerce
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/bigcommerce/121118" width="45" height="45" alt="icon" />
+      <br>BigCommerce
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Express" />
-      <br>Node
+      <br>Node.js
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
+      <br>Express.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Laravel" />
-      <br>Rust
+      <img src="https://skillicons.dev/icons?i=nest" width="45" height="45" alt="Express" />
+      <br>NestJS
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
-      <br>Django
+      <img src="https://cdn.simpleicons.org/redwoodjs/BD1D1D" width="45" height="45" alt="Express" />
+      <br>RedwoodJS
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
-      <br>Python
+      <img src="https://cdn.simpleicons.org/meteor/DE4F4F" width="45" height="45" alt="Express" />
+      <br>Meteor
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Laravel" />
-      <br>Go
+      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
+      <br>Three.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
+      <br>Android
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>iOS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" alt="Express" />
+      <br>Dart
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="icon"/>
+      <br>React Native
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" height="45" alt="Express" />
+      <br>Swift
     </td>
   </tr>
   <tr>
@@ -109,14 +135,6 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
-      <br>Flutter
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
-      <br>Android
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
       <br>MaterialUI
     </td>
@@ -125,12 +143,20 @@
       <br>Tailwind
     </td>
     <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="StyledCom" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="StyledCom" />
       <br>Styled
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
+      <img src="https://cdn.simpleicons.org/antdesign/0170FE" width="45" height="45" alt="Three.js" />
+      <br>Ant Design
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/chakraui/319795" width="45" height="45" alt="Three.js" />
+      <br>Chakra UI
     </td>
   </tr>
 </table>
