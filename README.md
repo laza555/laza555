@@ -39,6 +39,10 @@
       <br>WordPress
     </td>
     <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/shopify/7AB55C" width="45" height="45" alt="icon" />
+      <br>Shopify
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=webflow" width="45" height="45" alt="icon"/>
       <br>Webflow
     </td>
@@ -49,10 +53,6 @@
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="45" height="45" alt="icon" />
       <br>Drupal
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-      <br>Vue
     </td>
   </tr>
   <tr>
