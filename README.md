@@ -32,15 +32,15 @@
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="icon"/>
-      <br>React Native
+      <br>PHP
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="icon"/>
-      <br>React Native
+      <br>WordPress
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=webflow" width="45" height="45" alt="icon"/>
-      <br>React Native
+      <br>Webflow
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
