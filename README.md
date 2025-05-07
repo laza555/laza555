@@ -5,15 +5,15 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="45" height="45" />
       <br>Javascript
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="45" height="45" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="45" height="45" />
       <br>Typescript
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
       <br>React
     </td>
     <td align="center" width="90">
@@ -25,55 +25,55 @@
       <br>Vue
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Vue" />
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="icon"/>
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP"/>
       <br>PHP
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="icon"/>
+      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="WordPress"/>
       <br>WordPress
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/shopify/7AB55C" width="45" height="45" alt="icon" />
+      <img src="https://cdn.simpleicons.org/shopify/7AB55C" width="45" height="45" alt="Shopify" />
       <br>Shopify
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" width="45" height="45" alt="icon"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" width="45" height="45" alt="Magento"/>
       <br>Magento
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/woocommerce/96588A" width="45" height="45" alt="icon" />
+      <img src="https://cdn.simpleicons.org/woocommerce/96588A" width="45" height="45" alt="WooCommerce" />
       <br>WooCommerce
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/bigcommerce/white" width="45" height="45" alt="icon" />
+      <img src="https://cdn.simpleicons.org/bigcommerce/white" width="45" height="45" alt="BigCommerce" />
       <br>BigCommerce
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" />
       <br>Express.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nest" width="45" height="45" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=nest" width="45" height="45" alt="NestJS" />
       <br>NestJS
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/redwoodjs" width="45" height="45" alt="Express" />
+      <img src="https://cdn.simpleicons.org/redwoodjs" width="45" height="45" alt="RedwoodJS" />
       <br>RedwoodJS
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/meteor/DE4F4F" width="45" height="45" alt="Express" />
+      <img src="https://cdn.simpleicons.org/meteor" width="45" height="45" alt="Meteor" />
       <br>Meteor
     </td>
     <td align="center" width="90">
@@ -83,15 +83,15 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="Android" />
       <br>Android
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="iOS" />
       <br>iOS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="icon"/>
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React Native"/>
       <br>React Native
     </td>
     <td align="center" width="90">
@@ -99,11 +99,11 @@
       <br>Flutter
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Express" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" height="45" alt="Express" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" height="45" alt="Swift" />
       <br>Swift
     </td>
   </tr>
@@ -113,7 +113,7 @@
       <br>MongoDB
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="45" height="45" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
       <br>MySQL
     </td>
     <td align="center" width="90">
@@ -125,11 +125,11 @@
       <br>SQLite
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="45" height="45" alt="graphql" />
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="45" height="45" alt="GraphQL" />
       <br>GraphQL
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=crystal" width="45" height="45" alt="Supabase" />
+      <img src="https://skillicons.dev/icons?i=crystal" width="45" height="45" alt="Prisma" />
       <br>Prisma
     </td>
   </tr>
@@ -143,19 +143,19 @@
       <br>Tailwind
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="StyledCom" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="StyledCom" />
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="Styled" />
       <br>Styled
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/antdesign/0170FE" width="45" height="45" alt="Three.js" />
+      <img src="https://cdn.simpleicons.org/antdesign/0170FE" width="45" height="45" alt="Ant Design" />
       <br>Ant Design
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/chakraui/319795" width="45" height="45" alt="Three.js" />
+      <img src="https://cdn.simpleicons.org/chakraui/319795" width="45" height="45" alt="Chakra UI" />
       <br>Chakra UI
     </td>
   </tr>
